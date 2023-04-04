@@ -2,7 +2,7 @@
 I'm Alireza Samadi, a Machine Learning Engineer with a passion for using them in medical applications, but ML is always interesting. 
 Welcome to my GitHub profile!  
 # 🔭 What I'm working on Currently
-I'm working on Graph based deep learning, and learning something new every day.  
+I'm working on Graph based deep learning architecture  , and learning something new every day.  
 # 🌱 What I'm learning
 I'm always learning new things, and right now I'm focusing on Computer Vision as there are always more things to learn .
 # 💬 Ask me about
