@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Alireza Samadi, a Machine Learning Engineer with a passion for using them in medical usecases. 
+I'm Alireza Samadi, a Machine Learning Engineer with a passion for using them in medical applications, but ML is always interesting. 
 Welcome to my GitHub profile!  
 # 🔭 What I'm working on Currently
 I'm working on Graph based deep learning, and learning something new every day.  
